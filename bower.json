@@ -1,0 +1,23 @@
+{
+  "name": "bowerProjet",
+  "authors": [
+    "Mohammad Hossain <mohammadhossain109@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {
+    "jquery": "^2.2.3"
+  }
+}
